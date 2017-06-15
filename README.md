@@ -44,6 +44,10 @@ $ yarn test
 1. [Picker Component](https://gitlab.com/weblite-open-source/emoji) -picker.jsx
 2. [Emoji Category Navigator](https://gitlab.com/weblite-open-source/emoji) -emojiCategoryNavigator.jsx
 3. [Emoji Elements Generator](https://gitlab.com/weblite-open-source/emoji) -emojiElements.jsx
+4. [Utilities](https://gitlab.com/weblite-open-source/emoji) -emojiUtilities.js
+
+## Tutorials 
+
 
 ## Contributing
 
@@ -52,6 +56,15 @@ $ yarn test
 ## Versioning
 
 !!!We use [SemVer](https://www.semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+## FAQs
+
+<dl>
+  <dt><strong>Q.</strong> Can I use this <i>Emoji Picker</i> on my web app?</dt>
+  <dd><strong>A.</strong>  Yes, Just follow the instructions.</dd>
+
+<dt><strong>Q.</strong> Does this <i>Emoji Picker</i> accept inline styling? </dt>
+  <dd><strong>A.</strong>  Yes, Please read the tutorial.</dd>
+</dl>
 
 ## License
 
